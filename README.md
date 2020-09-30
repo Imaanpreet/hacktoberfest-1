@@ -12,3 +12,10 @@ Note: If you're still having trouble, follow this simple guide step-by-step.```
 
 ###Contributors
 - [Durga Prasad](https://github.com/nerdcode)
+
+```Example
+- [Jimmy Conway](https://github.com/jimmyconway)
+Note: If you're still having trouble, follow this simple guide step-by-step.```
+
+###Contributors
+- [Imaanpreet Kaur](https://github.com/Imaanpreet)
